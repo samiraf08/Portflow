@@ -35,8 +35,8 @@
   .laranja{
     background-image:url("./Img/laranja\ azul\ recorte.png");
   height:40vw;
-  width:100vw;
-  background-size: 100vw 40vw;
+  width:99.99vw;
+  background-size: 99.99vw 40vw;
   color:azure;
   position: relative;
   }
