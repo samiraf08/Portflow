@@ -105,6 +105,7 @@
 }
 @media (max-width:425px) {
   header{
+    height: 6vh;
     padding-right: 5vw;
     justify-content: space-between;
   }
@@ -126,13 +127,13 @@
     background-size: 100%;
   }
    h2{
-    top:65vw;
+    top:75vw;
     font-size:10vw;
     left:5vh;
-    width: 50%;
+    width:50%;
    } 
    .fale{
-     top:78vh;
+     top:80vh;
      font-size:6vw;
      left:5vh;
    }
